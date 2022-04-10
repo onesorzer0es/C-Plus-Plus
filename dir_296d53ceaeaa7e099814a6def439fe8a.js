@@ -1,5 +1,6 @@
 var dir_296d53ceaeaa7e099814a6def439fe8a =
 [
+    [ "approximate_pi.cpp", "d0/d51/approximate__pi_8cpp.html", "d0/d51/approximate__pi_8cpp" ],
     [ "area.cpp", "dc/d82/area_8cpp.html", "dc/d82/area_8cpp" ],
     [ "armstrong_number.cpp", "d4/d5d/math_2armstrong__number_8cpp.html", "d4/d5d/math_2armstrong__number_8cpp" ],
     [ "binary_exponent.cpp", "de/dcf/binary__exponent_8cpp.html", "de/dcf/binary__exponent_8cpp" ],
@@ -41,6 +42,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "n_choose_r.cpp", "d1/dbb/n__choose__r_8cpp.html", "d1/dbb/n__choose__r_8cpp" ],
     [ "ncr_modulo_p.cpp", "de/dab/ncr__modulo__p_8cpp.html", "de/dab/ncr__modulo__p_8cpp" ],
     [ "number_of_positive_divisors.cpp", "d0/da2/number__of__positive__divisors_8cpp.html", "d0/da2/number__of__positive__divisors_8cpp" ],
+    [ "perimeter.cpp", "d3/dfe/perimeter_8cpp.html", "d3/dfe/perimeter_8cpp" ],
     [ "power_for_huge_numbers.cpp", "df/def/power__for__huge__numbers_8cpp.html", "df/def/power__for__huge__numbers_8cpp" ],
     [ "power_of_two.cpp", "d4/d38/power__of__two_8cpp.html", "d4/d38/power__of__two_8cpp" ],
     [ "prime_factorization.cpp", "db/d0d/prime__factorization_8cpp.html", "db/d0d/prime__factorization_8cpp" ],

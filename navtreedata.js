@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md98", null ],
-      [ "Features", "index.html#autotoc_md99", null ],
-      [ "Documentation", "index.html#autotoc_md100", null ],
-      [ "Contributions", "index.html#autotoc_md101", null ]
+      [ "Overview", "index.html#autotoc_md101", null ],
+      [ "Features", "index.html#autotoc_md102", null ],
+      [ "Documentation", "index.html#autotoc_md103", null ],
+      [ "Contributions", "index.html#autotoc_md104", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
@@ -139,19 +139,19 @@ var NAVTREEINDEX =
 "annotated.html",
 "cpp/iterator/distance.html",
 "cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#a9e1b39a46ea16bc6587e25e294c6c363",
-"d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a6e486767434e44076c1ac374a22da726",
-"d4/d38/power__of__two_8cpp.html",
-"d5/d58/class_test_cases.html#ad9f95c09931625b41e3be1f88d1e28c5",
-"d6/d42/miller__rabin_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9",
-"d7/d89/double__factorial_8cpp.html#a0a3c417360400093891a9ccddaa4be26",
-"d8/dab/classstatistics_1_1stats__computer2.html",
-"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html",
-"db/d3f/wave__sort_8cpp.html#a7d4f243b9dc13ace4ef77e30dbc56f12",
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2871146feaaa453558239df67b21e0d2",
-"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#af22395b8e9e04222aa93a329523faef9",
-"df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html#aacd76f078632faee1a8788d031e6c2de",
-"pages.html"
+"d1/d83/classuint256__t.html#a90ce75bec5b525de55bbf92c564a2261",
+"d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a2dfbda148aad0bfaba2ebfda9ebc915a",
+"d4/d32/inorder__successor__of__bst_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97",
+"d5/d4c/group__sorting.html",
+"d6/d30/classmachine__learning_1_1adaline.html#a28160d17e492597a2f112e0d38551cda",
+"d7/d75/postfix__evaluation_8cpp.html#a5b97d12e8b61484f756a8721992bfae1",
+"d8/d95/vector__ops_8hpp_source.html",
+"d9/dde/classbinary__search__tree.html#ad9912e8574538e86f9bd2c38e7e63d03",
+"db/d01/brent__method__extrema_8cpp.html",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dd/d47/namespacemath.html#ad0acf82b7bc920182bf8322d1e103953",
+"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html#ab6a17a04aa93aaaef71e038e8cc2edeb",
+"functions_x.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
